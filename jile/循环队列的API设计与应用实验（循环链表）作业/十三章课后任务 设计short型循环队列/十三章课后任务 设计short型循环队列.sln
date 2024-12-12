@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "十三章课后任务 设计short型循环队列", "十三章课后任务 设计short型循环队列.vcxproj", "{026E2311-7FC0-4B95-A5BB-DD4CC9ED3FBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{026E2311-7FC0-4B95-A5BB-DD4CC9ED3FBA}.Debug|x64.ActiveCfg = Debug|x64
+		{026E2311-7FC0-4B95-A5BB-DD4CC9ED3FBA}.Debug|x64.Build.0 = Debug|x64
+		{026E2311-7FC0-4B95-A5BB-DD4CC9ED3FBA}.Debug|x86.ActiveCfg = Debug|Win32
+		{026E2311-7FC0-4B95-A5BB-DD4CC9ED3FBA}.Debug|x86.Build.0 = Debug|Win32
+		{026E2311-7FC0-4B95-A5BB-DD4CC9ED3FBA}.Release|x64.ActiveCfg = Release|x64
+		{026E2311-7FC0-4B95-A5BB-DD4CC9ED3FBA}.Release|x64.Build.0 = Release|x64
+		{026E2311-7FC0-4B95-A5BB-DD4CC9ED3FBA}.Release|x86.ActiveCfg = Release|Win32
+		{026E2311-7FC0-4B95-A5BB-DD4CC9ED3FBA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30C82DB5-2E27-496E-A334-F741980B94E6}
+	EndGlobalSection
+EndGlobal

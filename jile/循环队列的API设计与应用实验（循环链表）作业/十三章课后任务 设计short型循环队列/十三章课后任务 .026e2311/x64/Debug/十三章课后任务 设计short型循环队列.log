@@ -1,0 +1,4 @@
+﻿  Queue_fun.cpp
+C:\Users\19410\Desktop\jie-work\作业\-IT-\jile\循环队列的API设计与应用实验（循环链表）作业\十三章课后任务 设计short型循环队列\Queue_fun.cpp(5,17): warning C4091: “typedef ”: 没有声明变量时忽略“CirQue”的左侧
+C:\Users\19410\Desktop\jie-work\作业\-IT-\jile\循环队列的API设计与应用实验（循环链表）作业\十三章课后任务 设计short型循环队列\Queue_fun.cpp(10,4): warning C4091: “”: 没有声明变量时忽略“CirQue”的左侧
+  十三章课后任务 设计short型循环队列.vcxproj -> C:\Users\19410\Desktop\jie-work\作业\-IT-\jile\循环队列的API设计与应用实验（循环链表）作业\十三章课后任务 设计short型循环队列\x64\Debug\十三章课后任务 设计short型循环队列.exe
